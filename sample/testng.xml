@@ -1,0 +1,17 @@
+
+<suite name="TIMEPASS" parallel="methods" thread-count="3">
+  <test name =" FB Title Testing" >
+   <!--   //<groups>
+   //<run>
+     // <include name="MyTest"/>
+    //</run>
+   //</groups> -->
+   
+   
+    <classes>
+      <class name="sample.TEstSNG"/>
+     <!--  <class name="sample.TestNG1"/> -->
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

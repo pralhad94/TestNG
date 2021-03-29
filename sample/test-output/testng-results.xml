@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-29T17:39:51 IST" name="Default suite" finished-at="2021-03-29T17:39:51 IST" duration-ms="149">
+    <groups>
+    </groups>
+    <test started-at="2021-03-29T17:39:51 IST" name="Default test" finished-at="2021-03-29T17:39:51 IST" duration-ms="149">
+      <class name="sample.TEstSNG">
+        <test-method signature="FBtitleTest1()[pri:0, instance:sample.TEstSNG@671a5887]" started-at="2021-03-29T17:39:51 IST" name="FBtitleTest1" finished-at="2021-03-29T17:39:51 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBtitleTest1 -->
+        <test-method signature="FBtitleTest1()[pri:0, instance:sample.TEstSNG@671a5887]" started-at="2021-03-29T17:39:51 IST" name="FBtitleTest1" finished-at="2021-03-29T17:39:51 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBtitleTest1 -->
+        <test-method signature="FBtitleTest1()[pri:0, instance:sample.TEstSNG@671a5887]" started-at="2021-03-29T17:39:51 IST" name="FBtitleTest1" finished-at="2021-03-29T17:39:51 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBtitleTest1 -->
+        <test-method signature="FBtitleTest1()[pri:0, instance:sample.TEstSNG@671a5887]" started-at="2021-03-29T17:39:51 IST" name="FBtitleTest1" finished-at="2021-03-29T17:39:51 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBtitleTest1 -->
+        <test-method signature="FBtitleTest1()[pri:0, instance:sample.TEstSNG@671a5887]" started-at="2021-03-29T17:39:51 IST" name="FBtitleTest1" finished-at="2021-03-29T17:39:51 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBtitleTest1 -->
+        <test-method signature="FBtitleTest1()[pri:0, instance:sample.TEstSNG@671a5887]" started-at="2021-03-29T17:39:51 IST" name="FBtitleTest1" finished-at="2021-03-29T17:39:51 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBtitleTest1 -->
+        <test-method signature="FBtitleTest1()[pri:0, instance:sample.TEstSNG@671a5887]" started-at="2021-03-29T17:39:51 IST" name="FBtitleTest1" finished-at="2021-03-29T17:39:51 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBtitleTest1 -->
+        <test-method signature="FBtitleTest1()[pri:0, instance:sample.TEstSNG@671a5887]" started-at="2021-03-29T17:39:51 IST" name="FBtitleTest1" finished-at="2021-03-29T17:39:51 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBtitleTest1 -->
+        <test-method signature="FBtitleTest2()[pri:0, instance:sample.TEstSNG@671a5887]" started-at="2021-03-29T17:39:51 IST" name="FBtitleTest2" finished-at="2021-03-29T17:39:51 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBtitleTest2 -->
+        <test-method signature="FBtitleTest3()[pri:0, instance:sample.TEstSNG@671a5887]" started-at="2021-03-29T17:39:51 IST" name="FBtitleTest3" finished-at="2021-03-29T17:39:51 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBtitleTest3 -->
+        <test-method signature="FBtitleTest4()[pri:0, instance:sample.TEstSNG@671a5887]" started-at="2021-03-29T17:39:51 IST" name="FBtitleTest4" finished-at="2021-03-29T17:39:51 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBtitleTest4 -->
+        <test-method signature="FBtitleTest5()[pri:0, instance:sample.TEstSNG@671a5887]" started-at="2021-03-29T17:39:51 IST" name="FBtitleTest5" finished-at="2021-03-29T17:39:51 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBtitleTest5 -->
+      </class> <!-- sample.TEstSNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

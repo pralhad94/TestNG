@@ -17,7 +17,12 @@ public class TEstSNG {
 	public void FBtitleTest1()
 	{
 		System.out.println(" required print 1 |" +Thread.currentThread().getId());
+      System.out.println("abc");	
 	}
+	
+	
+	
+	
 	
 	
 	@Test
